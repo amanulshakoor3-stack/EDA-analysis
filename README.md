@@ -22,7 +22,7 @@ These should already be available in the project's virtual environment.
 To run the analysis, activate the virtual environment and execute:
 
 ```bash
-cd /c/New D/Quntification/New folder
+cd /c/folder/
 .\venv\Scripts\activate
 python eda_analysis/eda_breach_data.py
 ```
